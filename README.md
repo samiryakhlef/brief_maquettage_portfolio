@@ -36,9 +36,9 @@ le site web :maintenant que votre maquette est réalisée, vous allez intégrer 
 la mise en ligne : afin de pouvoir montrer votre travail à de futurs recruteurs / clients, vous allez héberger votre projet grâce à la solution de votre choix: github pages, heroku, alwaysdata, etc. Vous pourrez ainsi mettre l'URL de votre projet dans votre profil LinkedIn par exemple.
 ​
 # Modalités pédagogiques
-# Vous disposez d'une semaine pour réaliser votre portfolio
+## Vous disposez d'une semaine pour réaliser votre portfolio
 
-# Votre travail est individuel
+## Votre travail est individuel
 
 # Critères de performance
 Le rendu de votre travail doit être responsive
