@@ -53,8 +53,9 @@ Vous présenterez votre travail devant la promotion
 Votre travail sera évalué par l'équipe pédagogique
 
 # Livrables
+### lien vers trello [Trello](https://trello.com/invite/b/1Jo44B86/b51cb24b55a52a1d73cf326ac4bc0df4/brief-maquette-portfolio)
 ### une photo de votre sketch (si vous en avez fait un)
-### un export pdf / png de votre zoning
+### un export pdf / png de votre zoning [FIGMA-ZONING](https://www.figma.com/file/ZahBFAZ3stLI9n34pOwXGJ/Zoning?node-id=0%3A1)
 ### un export pdf / png de votre wireframe
 ### un export pdf / png de votre moodboard
 ### un document texte contenant l'explication de vos sources d'inspirations
