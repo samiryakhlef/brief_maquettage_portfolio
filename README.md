@@ -59,7 +59,7 @@ Votre travail sera évalué par l'équipe pédagogique
 ### un export pdf / png de votre wireframe [lien figma-wireframe](https://www.figma.com/file/UndvFC2YfIy4GooQ9VB3Es/WIREFRAME?node-id=0%3A1)
 ### un export pdf / png de votre moodboard [lien du moodboard](https://www.figma.com/file/014GGcyeelyymQh7UGWNEf/Moodboard?node-id=0%3A1)
 ### un document texte contenant l'explication de vos sources d'inspirations
-### un export pdf / png de votre style tiles
+### un export pdf / png de votre style tiles[ lien du style tiles](https://www.figma.com/file/nBLTE55a3skCC5IGy0Ybtu/style-tiles?node-id=0%3A1)
 ### un document texte contenant l'explication de votre style tiles
 ### un export pdf / png de votre maquette (au format mobile et pc)
 ### une capture d'écran sous format pdf / png de votre mockup
