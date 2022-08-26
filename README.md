@@ -56,7 +56,7 @@ Votre travail sera évalué par l'équipe pédagogique
 ### lien vers  [Trello](https://trello.com/invite/b/1Jo44B86/b51cb24b55a52a1d73cf326ac4bc0df4/brief-maquette-portfolio)
 ### une photo de votre sketch (si vous en avez fait un)
 ### un export pdf / png de votre zoning [LIEN FIGMA-ZONING](https://www.figma.com/file/ZahBFAZ3stLI9n34pOwXGJ/Zoning?node-id=0%3A1)
-### un export pdf / png de votre wireframe [lien figma-wireframe](https://www.figma.com/file/UndvFC2YfIy4GooQ9VB3Es/WIREFRAME?node-id=0%3A1)
+### un export pdf / png de votre wireframe [lien figma-wireframe](https://www.figma.com/file/UndvFC2YfIy4GooQ9VB3Es/WIREFRAME?node-id=15%3A28)
 ### un export pdf / png de votre moodboard [lien du moodboard](https://www.figma.com/file/014GGcyeelyymQh7UGWNEf/Moodboard?node-id=0%3A1)
 ### un document texte contenant l'explication de vos sources d'inspirations
 ### un export pdf / png de votre style tiles[ lien du style tiles](https://www.figma.com/file/nBLTE55a3skCC5IGy0Ybtu/style-tiles?node-id=0%3A1)
