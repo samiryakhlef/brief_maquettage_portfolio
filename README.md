@@ -62,5 +62,5 @@ Votre travail sera évalué par l'équipe pédagogique
 ### un export pdf / png de votre style tiles[ lien du style tiles](https://www.figma.com/file/nBLTE55a3skCC5IGy0Ybtu/style-tiles?node-id=0%3A1)
 ### un document texte contenant l'explication de votre style tiles
 ### un export pdf / png de votre maquette (au format mobile et pc)[lien de la maquette](https://www.figma.com/file/3R1HVKM9yI0n7NkhAsw5GF/maquette?node-id=0%3A1)
-### une capture d'écran sous format pdf / png de votre mockup
+### une capture d'écran sous format pdf / png de votre mockup [lien vers le mockup](https://www.figma.com/file/7OK4DRwqeMmq4SwNhUb3Od/Artboard-Studio-Mockups-(Community)?node-id=0%3A1)
 ### le lien de votre projet en ligne (si vous l'avez fait)
